@@ -1,0 +1,4 @@
+#!/bin/bash
+ls
+-G
+ls -a
